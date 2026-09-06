@@ -51,7 +51,7 @@ To eliminate these bottlenecks, I engineered a **fully online, cloud-synced syst
 
 ---
 
-## 📈 Business Impact
+## 📈 Problems Solved
 
 By digitizing this workflow, the department achieved:
 - **Instant Data Retrieval:** Management can now query data instantly using Excel/Google Sheets filters rather than flipping through manual registers.
@@ -65,15 +65,9 @@ By digitizing this workflow, the department achieved:
 *(Note to user: Save your QR code screenshots or system images into the `assets/images/` folder to populate these previews!)*
 
 <p align="center">
-  <img src="assets/images/qr_codes.png" alt="QR Code Scanning Interface" width="60%">
+  <img src="assets/images/QR%20Code%20Scanning%20Interface.png" alt="QR Code Scanning Interface" width="60%">
   <br>
   <i>Figure 1: Dedicated QR codes for Book Issue and Book Return forms.</i>
-</p>
-
-<p align="center">
-  <img src="assets/images/email_reminder.png" alt="Email Automation Example" width="60%">
-  <br>
-  <i>Figure 2: Example of the automated 14-day return reminder dispatched to students.</i>
 </p>
 
 ---
