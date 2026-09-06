@@ -62,8 +62,6 @@ By digitizing this workflow, the department achieved:
 
 ## 📸 System Previews
 
-*(Note to user: Save your QR code screenshots or system images into the `assets/images/` folder to populate these previews!)*
-
 <p align="center">
   <img src="assets/images/QR%20Code%20Scanning%20Interface.png" alt="QR Code Scanning Interface" width="60%">
   <br>
